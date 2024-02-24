@@ -17,4 +17,4 @@ python detect.py --weights gelan-c.pt --source 0 --view-img
 
 ### Watch the Complete Step by Step Explanation
 
-[![Watch the video](https://github.com/noorkhokhar99/yolov9-real-time-webcam/blob/main/Screenshot%202024-02-23%20at%204.53.26%20PM.png)](https://youtu.be/8jM1Pi4OxJo)
+[![Watch the video](https://github.com/noorkhokhar99/yolov9-real-time-webcam/blob/main/Screenshot%202024-02-23%20at%204.53.26%20PM.png)](https://youtu.be/tlV-r4Clb3g)
